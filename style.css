@@ -10,8 +10,7 @@ header {
 }
 
 main {
-  width: 90%
-  margin: 50px auto ;
+  margin: 0px auto ;
   display: flex;
   width: 960px;
   position: center;
@@ -78,4 +77,4 @@ footer {
     width: 90%;
     margin-bottom: 20px;
   }
-  
+}
